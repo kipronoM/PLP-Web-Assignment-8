@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>PLP Project EHS (Environmental, Health & Safety) | OSH Audit</title>
+      <!-- Favicon  -->
+    <link rel="icon" href="../images/favicon.ico">
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- bootstrap css -->
+      <link rel="stylesheet" href="../css/bootstrap.min.css">
+      <!-- style css -->
+      <link rel="stylesheet" href="../css/style.css">
+      <!-- whatsapp -->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <!-- responsive-->
+      <link rel="stylesheet" href="../css/responsive.css">
+      <!-- awesome fontfamily -->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+   </head>
+   <!-- body -->
+   <body class="main-layout inner_page">
+      <!-- loader  -->
+      <div class="loader_bg">
+         <div class="loader"><img src="../images/loading.gif" alt="" /></div>
+      </div>
+      <!-- end loader -->
+      <!-- header -->
+      <header>
+         <div class="header">
+            <div class="container-fluid">
+               <div class="row d_flex">
+                  <div class=" col-md-2 col-sm-3 col logo_section">
+                     <div class="full">
+                        <div class="center-desk">
+                           <div class="logo">
+                              <a href="../home.php" class="logo-initials">PLP Project EHS</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-8 col-sm-9">
+                     <nav class="navigation navbar navbar-expand-md navbar-dark ">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarsExample04">
+                           <ul class="navbar-nav mr-auto">
+                              <li class="nav-item">
+                                 <a class="nav-link" href="../home.php">Home</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a class="nav-link" href="../about.php">About</a>
+                              </li>
+                              <li class="nav-item">
+                                 <a class="nav-link" href="../we_do.php">What we do</a>
+                              </li>
+                              <li class="nav-item active">
+                                 <a class="nav-link" href="../portfolio.php">Portfolio </a>
+                              </li>
+                              <li class="nav-item">
+                                 <a class="nav-link" href="../contact.php">Contact Us</a>
+                              </li>
+                           </ul>
+                        </div>
+                     </nav>
+                  </div>                  
+               </div>
+            </div>
+         </div>
+      </header>
+      <!-- end header -->
+
+      <!-- audit details Content Area start-->
+
+      <div class="partners">
+         <div class="containerr">
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="titlepage text_align_center">
+                     <h2>Work Place OSHA & NEMA Audits</h2>
+                  </div>
+               </div>
+            </div>
+
+            <section class="post-news-area section-padding-100-0 mb-70">
+              <div class="containerr">
+                <div class="row justify-content-center">
+
+                 <!--Content Area -->
+                <div class="col-12 col-lg-8">
+                    <div class="post-details-content mb-100">
+                        <p>Environmental audits are tools which can quantify an organisational environmental performance and
+                          position Conducting an environmental audit is no longer an option but a sound precaution and a proactive measure in
+                          today’s heavily regulated environment.                        
+                        <h4>Benefit of Service</h4>
+                           <ul>
+                             <li>- Organisations understand how to meet their legal requirements</li>
+                             <li>- Improving environmental performance and saving money.</li>
+                             <li>- Meeting specific statutory reporting requirements</li>
+                             <li>- Organisations can demonstrate they are environmentally responsible</li>
+                           </ul>
+                        <img class="mb-30" src="https://media.istockphoto.com/id/869622294/photo/clipboard-with-document-job-safety-analysis.jpg?s=612x612&w=0&k=20&c=baHvNHwmgjdJWEJbi81H35uARr94v_QdqmkNzZ7V6_0=" alt="">
+                        </p>   
+                        <h3>Types Of Audit</h3>
+                        <div class="card-body">
+                        <h4>a. Occupational Health and Safety Audit</h4>
+                        <h5>Legal requirements</h5>
+                        <p>                        
+                            Every occupier is required to cause a health and safety audit of the workplace at least once
+                            in every period of 12 months by a health and safety adviser registered for that purpose by
+                            the Director of Occupational health and safety as per Section 10 of Legal Notice No 31 of
+                            2004. The main legislation which is relevant to this subject is the Occupational Safety and Health
+                            Act, 2007 and its subsidiary legislations.
+                        </p>
+                        <h5>Why Occupational and Health audits?</h5>
+                        <p>
+                            A Health and Safety Audit of workplaces and their associated operations is a way of
+                            periodically checking if and how they are complying with the requirements of the
+                            Occupational Safety and Health Act, 2007. It also allows comparisons to be made between the
+                            areas that are performing well regarding health and safety management and those that are
+                            not.
+                        </p>
+                        <h5>How are Occupational health and safety audits done?</h5>
+                        <p>
+                            The health and safety audit is carried out as per the code of practice for health and safety
+                            auditing. This is done by a DOSHS approved health and safety auditor. The outcome of the
+                            audit is documented and a copy of the report submitted to the Directorate of Occupational
+                            Health and Safety Services as required under Sec. 13 (1) of Legal Notice No. 31 under the
+                            Occupational Safety and Health Act, 2007 of the laws of Kenya.
+                        </p>
+                        <p>
+                            PLP Project EHS (Environmental, Health & Safety)’s team will also offer advice and guidance on actions necessary to enable the
+                            company to fully comply with health & safety regulations and best industry practice. We also
+                            walk with you towards ensuring that the company fully complies with all the requirements of
+                            the OSHA 2007 and all its subsidiary legislation as well as ensuring the company achieves a
+                            reasonable level of safety culture.
+                        </p>
+                        <h4>b. Fire Safety Audit</h4>
+                        <p>Section 36 of the Fire Risk Reduction Rules 2007, requires that occupiers of workplaces should 
+                           ensure that their workplaces are audited annually by an approved fire safety auditor.
+                        </p>
+                        <h5>Fire safety policy</h5>
+                        <p>                        
+                        Every workplace Should document a fire safety policy. Abstract of the policy should be posted at the 
+                        workplace. The policy should be reviewed periodically or after every twelve months as required under 
+                        section, 34 of the fire risk Reduction Rules, 2007.
+                        </p>
+                        <h5>Fire fighting team</h5>
+                        <p>
+                        Every workplace should constitute a fire fighting team as required under section, 20-22 of the Fire Risk 
+                        Reduction Rules, 2007. The fire fighting team should carry out its duties as provided for under section. 
+                        22 of the Fire Risk Reduction Rules, 2007.
+                        </p>
+                        <h5>Training</h5>
+                        <p>
+                        All workers should be instructed on how to use fire extinguishers and on basic fire safety upon employment 
+                        (Fire Risk Reduction Rules 2007 Sec. 21). Training on fire safety for all the employees should be done regularly.
+                        </p>
+                        <h5>Fire drills training</h5>
+                        <p>A fire drill is required under section. 23 of the Fire Risk Reduction Rules, 2007.Standard Fire drills should 
+                           be conducted at least once in every twelve months in line with section .23 of the Fire Risk Reduction Rules, 
+                           2007 to improve on the level of preparedness and response in the event of a real fire/emergency.
+                        </p>
+                        <h5>Fire exits</h5>
+                        <p>Every workplace should provide and mark Fire exit routes and always left free from obstruction. Evacuation 
+                           plans should be posted as appropriate (Fire Risk Reduction Rules 2007 sec. 17(4, 5)).
+                        </p>
+                        <h5>Fire assembly points</h5>
+                        <p>All workers should assemble at this point in the event of a fire emergency as per sec. 24 of the Fire Risk Reduction Rules of 2007
+                        </p>
+                        <h5>First aid</h5>
+                        <p>ALL workplaces should provide a first aid kit, trained first aiders and the contents of the first kit should be 
+                           in line with sec. 2(c) of the First Aid Rules, 1977.
+                        </p>
+                        <h5>PLP Project EHS (Environmental, Health & Safety) fire audits services</h5>
+                        <p>We at PLP Project EHS (Environmental, Health & Safety) lead and guide your organization in the achievement of the above fire safety audits to aid with legal 
+                           compliance and enhance workplace safety against fire related perils.
+                        </p>
+                        <h4>c. Risk Assessment</h4>
+                        <h5>Health and safety risk assessment</h5>
+                        <p>                        
+                        A health and safety risk assessment will be in compliance with section 6 (3) of the Occupational Safety and Health Act, 2007 under 
+                        Part II – General Duties. Here, every occupier is required to carry out appropriate risk assessments in relation to the health 
+                        and safety of persons employed. On the basis of these results,the occupier is to adopt preventive and protective measures to ensure 
+                        that under all conditions of their intended use, all chemicals, machinery, equipment, tools and processes under the control of the 
+                        occupier are safe and without risk to health and comply with the requirements of the safety and health provisions of the 
+                        aforementioned Act. In the assessment report, recommendations are made in light of the preventive and protective measures addressed.
+                        </p>
+                        <h4>d. Environmental Audit</h4>
+                        <p>                        
+                        An environmental Audit is a systematic documented, periodic and objective evaluation of how activities and processes of an ongoing 
+                        project to determine how far these activities and programs conform with the approved environmental management plan of that specific 
+                        project and sound environmental management practices. A comprehensive EA promotes safe and healthy environment at all stages of a 
+                        project operations, as well as decommissioning.
+                        </p>
+                        <h5>Who Conducts Environmental Audits?</h5>
+                        <p>
+                        Environmental Audits are conducted by NEMA registered Environmental Experts under the provisions of the Environmental Management and 
+                        Coordination Act (EMCA), 1999, who review individual facility or company-wide operations. As defined in the Environment 
+                        (Impact Assessment and Audits) Regulations, 2003, the audits must conform to EMCA’s definition of environmental audit and must be 
+                        conducted on annual basis.
+                        </p>
+                        <h5>What do we look for when conducting an environmental audit?</h5>
+                        <p>
+                        In conducting an Environmental audit, the auditor seeks to understand :
+                        <ul>
+                             <li>All project activities, including the production process, goods or services offered.</li>
+                             <li>The auditor also takes into consideration environmental regulatory frameworks, environmental standards, environmental 
+                                health and safety measures and Sustainable use of natural resources.</li>
+                           </ul>
+                        </p>
+                        <h5>An auditor shall specifically:</h5>
+                        <p>
+                        <ul>
+                             <li>- Indicate the objective, scope and criteria of the audit</li>
+                             <li>- Study all relevant environmental law and regulatory frameworks of health and safety, sustainable use of natural resources and acceptable national and international standards.</li>
+                             <li>- Verify the levels of compliance by the proponent with the conditions of the environmental management plan.</li>
+                             <li>- Review existing project documentation related to all infrastructural facilities and designs.</li>
+                             <li>- Review the production process, taking into account the raw materials, products, by products and wastes.</li>
+                             <li>- Establish measures in place to manage the byproducts and wastes, including engaging the services of NEMA approved waste collectors or others like industrial symbiosis.</li>
+                             <li>- Examine monitoring programs, parameters, and procedures in place for control and corrective actions in case of emergencies.</li>
+                             <li>- Examine records of incidents and accidents and the likelihood of future occurrence of the incidents and accidents.</li>
+                             <li>- Examine the management of health, safety and welfare issues of the employees, the local and other potentially affected communities.</li>
+                           </ul>
+                        </p>
+                        <h5>ENVIRONMENTAL IMPACT ASSESSMENT</h5>
+                        <h5>Legal requirements</h5>
+                        <p>
+                        Section 58 of EMCA, 1999 requires proponents of projects prescribed under schedule II of the aforesaid act to submit to NEMA an EIA report for review, approval and subsequent issue of 
+                        an EIA License. The EIA study report shall be conducted and submitted to NEMA in accordance with Sec. 16 and 19, respectively, of the Environment (Impact Assessment & Audit) Regulations, 2003.
+                        </p>
+                        <h4>e. Energy Audits</h4>
+                        <p>                        
+                        Energy Audit is a critical and essential study of equipments, processes, operations of a firm organ/department (i.e. factories, buildings, schools and universities, hotels and restaurants) 
+                        with the sole purpose of coming up with energy saving solutions thus reduce the energy bills of an organization. The Energy Audit can also help benchmark the energy consumption of an 
+                        industry organ with other comparable organs. We owe to the fact that an improvement of energy efficiency can bring several benefits to your business. Some of the benefits are:
+                        <ul>
+                             <li>- Continuous improvement in production efficiency</li>
+                             <li>- Identifying cost saving opportunities in energy efficiency.</li>
+                             <li>- The findings of an energy audit can be a good reference for your management in supporting commercial decisions.</li>
+                           </ul>
+                           PLP Project EHS (Environmental, Health & Safety) team has developed energy audit guideline to help you find the best information for improvement opportunities. Our audit services provide you with a clear understanding of 
+                           energy consumption rate in your buildings and facilities and a clear recommendation plan for the next action.
+                        </p> 
+                        <h4>e. Medical Examination</h4>
+                        <p>                        
+                        Medical Examinations are conducted according to the Medical Examinations Rules, 2005 – Sec. 5 where it is the duty of the employer to ensure that all persons employed in any of the 
+                        occupations outlined in the second schedule of the Occupational Safety and Health Act. 2007 undergo both pre-employment and periodic medical examinations by a designated health 
+                        practitioner (DHP), without any loss of earnings for the employees (Sec. 5 of the aforesaid rules). A summary report on the same should be submitted within twenty one days to 
+                        the director and a copy sent to the employer. PLP Project EHS (Environmental, Health & Safety) ltd team will take you through this process.we pride our self with experience and skills to swiftly and legally advice you on 
+                        all legal requirements as pertains the aforementioned regulations.
+                        </p>                      
+                    </div>
+                </div>                                         
+            </div>
+          </div>
+        </div>
+    </section>        
+  </div>
+</div>
+      
+      <!-- audit details content area end -->
+      <!-- footer -->
+      <footer>
+         <div class="footer">
+            <div class="container">
+               <div class="row">
+                  <div class="col-md-3">
+                     <a href="home.php" class="logo-initials">PLP Project EHS</a>
+                  </div>
+                  <div class="col-md-9">
+                     <form class="newslatter_form">
+                        <input class="ente" placeholder="Enter your email" type="text" name="Enter your email">
+                        <button class="subs_btn">Subscribe</button>
+                     </form>
+                  </div>
+                  <div class="col-md-3 col-sm-6"
+                  >
+                     <div class="Informa helpful">
+                        <h3>Quick Links</h3>
+                        <ul>
+                           <li><a href="../home.php">Home</a></li>
+                           <li><a href="../about.php">About</a></li>
+                           <li><a href="../we_do.php">What we do</a></li>
+                           <li><a href="../portfolio.php">Portfolio</a></li>
+                           <li><a href="../contact.php">Contact us</a></li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-md-3 col-sm-6">
+                     <div class="Informa">
+                        <h3>Vision</h3>
+                        <ul>
+                           <li>Become the Premier Environmental 
+                           </li>
+                           <li>And Industrial Audit company 
+                           </li>
+                           <li>in Kenya and Africa                          
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-md-3 col-sm-6">
+                     <div class="Informa">
+                        <h3>Mission</h3>
+                        <ul>
+                           <li>To continue providing our 
+                           </li>
+                           <li>clients with scientifically
+                           </li>
+                           <li>valid, environmentally sound,
+                           </li>
+                           <li>state of the art services in a
+                           </li>
+                           <li>timely, cost effective manner.
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-md-3 col-sm-6">
+                     <div class="Informa conta">
+                        <h3>Contact Us</h3>
+                        <ul>
+                           <li> <a href="Javascript:void(0)" class="test"> <i class="fa fa-map-marker" aria-hidden="true"></i> H2, PLP Building, Nairobi
+                              </a>
+                           </li>
+                           <li> <a href="Javascript:void(0)"><i class="fa fa-phone" aria-hidden="true"></i> +254-701234567, +254-701234567
+                              </a>
+                           </li>
+                           <li> <a href="Javascript:void(0)"> <i class="fa fa-envelope" aria-hidden="true"></i>info@projectehsconsult.co.ke
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="copyright text_align_left">
+               <div class="container">
+                  <div class="row d_flex">
+                     <div class="col-md-6">
+                        <p>©Copyright 2024 | <a href="https://www.projectehsconsult.co.ke">https://www.projectehsconsult.co.ke</a></p>
+                     </div>
+                     <div class="col-md-6">
+                        <ul class="social_icon text_align_center">
+                           <li> <a href="Javascript:void(0)"><i class="fa fa-facebook-f"></i></a></li>
+                           <li> <a href="Javascript:void(0)"><i class="fa fa-twitter"></i></a></li>
+                           <li> <a href="Javascript:void(0)"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                           <li> <a href="Javascript:void(0)"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                           <li> <a href="Javascript:void(0)"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- end footer -->
+      <!-- Javascript files-->
+      <script src="../js/jquery.min.js"></script>
+      <script src="../js/bootstrap.bundle.min.js"></script>
+      <script src="../js/jquery-3.0.0.min.js"></script>
+      <script src="../js/custom.js"></script>
+      <a href="https:/wa.me/+254701234567"  target="_blank" class="whatsapp_float"><i
+         class="fa-brands fa-whatsapp whatsapp-icon"></i></a>
+   </body>
+</html>
